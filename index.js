@@ -1,8 +1,8 @@
 const Aoijs = require("aoi.js")
 
 const bot = new Aoijs.Bot({
-token: "ODIzMjUyMDQ0NTQ2NTcyMzQ5.YFeHNg.jZOvXr9auAQAZ_DxkWiPxX0dbEs", //TOKEN YOUR BOT(ТОКЕН ВАШЕГО БОТА)
-prefix: "&" //PREFIX YOUR BOT(ПРЕФИКС ВАШЕГО БОТА)
+token: "ODQ0OTQ2NDgyNTUzNjg0MDM5.YKZzuw.lWo-xnM0ioxfo7gNbPNNZgjDkQg", //TOKEN YOUR BOT(ТОКЕН ВАШЕГО БОТА)
+prefix: "gif." //PREFIX YOUR BOT(ПРЕФИКС ВАШЕГО БОТА)
 })
 bot.onMessage()
 //commands(команды)
