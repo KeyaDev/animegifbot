@@ -1,13 +1,13 @@
 {
-  "name": "Name your bot",
+  "name": "AnimeGif Bot",
   "version": "1.0.0",
-  "description": "Description your bot",
+  "description": "Test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "KeyaDev",
   "license": "ISC",
   "dependencies": {
     "aoi.js": "^1.0.6"
